@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/samarkumar/Desktop/DSA_ASSIG/Day_01-LL",
+      "program": "/Users/samarkumar/Desktop/DSA_ASSIG/Day_01-LL/build/Debug/outDebug"
+    }
+  ]
+}
